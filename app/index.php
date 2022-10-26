@@ -1,17 +1,29 @@
 <?php
 
-// QUERY STRING
-//var_dump($_GET['name']);
-//$name = 'Andreu';
+require 'app/helpers.php';
 
-// API
-function greet(){
-    $name = htmlspecialchars($_GET['name']);
-    $surname = $_GET['surname'];
+require 'app/Task.php';
 
-    echo "Hola $name $surname!";
+//$task = new Task(1,'comprar pa','a la panaderia',0);
+//var_dump($task);
+
+$user = 'debian-sys-maint';
+$pass = 'JzQ3pGNmIxKl3HMf';
+
+try {
+    $dbh = new PDO('mysql:host=localhost;dbname=phplaraveldevs', $user, $pass);
+} catch (\Exception $e){
+    echo 'Error de conneexió a la base de dades';
 }
+
+$statement = $dbh->prepare('SELECT * FROM tasks');
+
+$statement->execute();
+
+//fethAllTasks
+$tasks = $statement->fetchAll(PDO::FETCH_CLASS,'Task');
+
+var_dump($tasks);
 
 $greeting = greet();
 
-//$greting = 'Hola' . $_GET['name'] . '' . $_GET['name'] . '!';

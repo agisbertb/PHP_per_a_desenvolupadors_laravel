@@ -17,6 +17,25 @@
 <body>
 <header>
     <h1><?=$greeting;?></h1>
+
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Completed</th>
+        </tr>
+        <?php foreach ($tasks as $task): ?>
+        <tr>
+            <td>1</td>
+            <td>Estudiar PHP</td>
+            <td>Estudiar PHP</td>
+            <td>dels apunts screencasts</td>
+            <td>1</td>
+        </tr>
+        <?php endforeach; ?>
+
+    </table>
 </header>
 </body>
 </html>
