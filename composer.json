@@ -1,0 +1,17 @@
+{
+    "name": "agisbert/php_per_a_desenvolupadors_laravel",
+    "description": "bla bla",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "agisbertb",
+            "email": "agisbert@iesebre.com"
+        }
+    ],
+    "require": {}
+}
