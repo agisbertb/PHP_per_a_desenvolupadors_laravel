@@ -24,3 +24,12 @@ function connectDB ($config){ //Dependendy Injection
         echo 'Error de connexió a la base de dades';
     }
 }
+function fetchAllTasks($dbh){
+
+    $statement = $dbh->prepare('SELECT * FROM tasks;');
+
+    $statement->execute();
+
+
+    $tasks = $statement->fetchAll(PDO::FETCH_CLASS,'Task');
+}
