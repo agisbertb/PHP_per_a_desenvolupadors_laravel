@@ -1,10 +1,15 @@
 # PHP_per_a_desenvolupadors_laravel
 
-## 101 Introdució a PHP per a desenvolupadors Laravel.
+Codi font del screencast:
 
-## Instal·lació de PHP i primers passos.
+• Aprèn PHP per a Laravel: https://tubeme.acacha.org/php
+• Més vídeos al canal de Youtube acacha_dev -> https://youtube.acacha.org
 
-https://www.youtube.com/watch?v=s1h0SIt0g3I&list=PLyasg1A0hpk2vR_ocOHavVJiybYoB05pR&index=2&t=30s
+Podeu trobar més informació sobre aquest codi a:
+
+https://github.com/acacha/wiki/blob/main/PHP%20per%20a%20desenvolupadors%20Laravel.md
+
+Creat per Andreu Gisbert Bel
 
 ## Tags
 - v0.1: Exemple Hello World de PHP i HTML sense separations of concerns -> sense MVC
