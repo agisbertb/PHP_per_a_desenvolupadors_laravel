@@ -2,8 +2,8 @@
 
 Codi font del screencast:
 
-• Aprèn PHP per a Laravel: https://tubeme.acacha.org/php
-• Més vídeos al canal de Youtube acacha_dev -> https://youtube.acacha.org
+- Aprèn PHP per a Laravel: https://tubeme.acacha.org/php
+- Més vídeos al canal de Youtube acacha_dev -> https://youtube.acacha.org
 
 Podeu trobar més informació sobre aquest codi a:
 
