@@ -17,3 +17,5 @@ Creat per Andreu Gisbert Bel
 - v0.3: Versió del codi al final del primer video
 - v0.4: Separar la configuració (config.php) del codi -> implementat la 0 de SOLID -> Open To Extension closed to modification
 - v0.5: Versió del codi al final del segon video
+- v0.6: Refactorització PDO, afegit composer.json i autoload. Namespaces
+- v0.7: Container -> Implementar D de SOLID Dependency Inversion Principle -> Inverter -> Inversor Container -> APP

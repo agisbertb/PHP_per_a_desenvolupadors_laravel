@@ -1,15 +1,11 @@
 <?php
 
-use Framework\Database\Database;
+use Framework\App;
 
-require 'config.php';;
 
 require 'app/helpers.php';
 
-$database = new Database($config); // -> Laravel no utilitzem gairebé mai new -> DI i Container
-$tasks = $database->selectALL('tasks');
-//$tasks = Database::selectAll('tasks'); // Crida estàtica -> sense new
+$tasks = App::get('database')->selectALL('tasks');
 //$tasks = Tasks::selectAll('tasks'); Laravel Eloquent
-
 
 $greeting = greet();
