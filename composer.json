@@ -13,5 +13,7 @@
             "email": "agisbert@iesebre.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
 }
