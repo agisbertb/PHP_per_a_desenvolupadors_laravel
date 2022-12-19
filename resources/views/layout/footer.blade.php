@@ -19,18 +19,18 @@
             <div class="grid grid-cols-2 gap-8 xl:col-span-2">
                 <div class="md:grid md:grid-cols-2 md:gap-8">
                     <div>
-                        <h3 class="text-base font-medium text-white">Solutions</h3>
+                        <h3 class="text-base font-medium text-white">Solucions</h3>
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Marketing</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Màrqueting</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Analytics</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Analítica</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Commerce</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Comerç</a>
                             </li>
 
                             <li>
@@ -39,32 +39,32 @@
                         </ul>
                     </div>
                     <div class="mt-12 md:mt-0">
-                        <h3 class="text-base font-medium text-white">Support</h3>
+                        <h3 class="text-base font-medium text-white">Suport</h3>
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Pricing</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Preus</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Documentation</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Documentació</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Guides</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Guies</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">API Status</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Estat de l'API</a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="md:grid md:grid-cols-2 md:gap-8">
                     <div>
-                        <h3 class="text-base font-medium text-white">Company</h3>
+                        <h3 class="text-base font-medium text-white">Empresa</h3>
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">About</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Sobre</a>
                             </li>
 
                             <li>
@@ -72,15 +72,15 @@
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Jobs</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Treballs</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Press</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Premsa</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Partners</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Socis</a>
                             </li>
                         </ul>
                     </div>
@@ -88,28 +88,28 @@
                         <h3 class="text-base font-medium text-white">Legal</h3>
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Claim</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Reclamació</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Privacy</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Privacitat</a>
                             </li>
 
                             <li>
-                                <a href="#" class="text-base text-gray-300 hover:text-white">Terms</a>
+                                <a href="#" class="text-base text-gray-300 hover:text-white">Termes</a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="mt-8 xl:mt-0">
-                <h3 class="text-base font-medium text-white">Subscribe to our newsletter</h3>
-                <p class="mt-4 text-base text-gray-300">The latest news, articles, and resources, sent to your inbox weekly.</p>
+                <h3 class="text-base font-medium text-white">Subscriu-te al nostre butlletí</h3>
+                <p class="mt-4 text-base text-gray-300">Les últimes notícies, articles i recursos s'envien setmanalment a la vostra safata d'entrada.</p>
                 <form class="mt-4 sm:flex sm:max-w-md">
                     <label for="email-address" class="sr-only">Email address</label>
-                    <input type="email" name="email-address" id="email-address" autocomplete="email" required class="w-full min-w-0 appearance-none rounded-md border border-transparent bg-white py-2 px-4 text-base text-gray-900 placeholder-gray-500 focus:border-white focus:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" placeholder="Enter your email">
+                    <input type="email" name="email-address" id="email-address" autocomplete="email" required class="w-full min-w-0 appearance-none rounded-md border border-transparent bg-white py-2 px-4 text-base text-gray-900 placeholder-gray-500 focus:border-white focus:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" placeholder="Introdueix l'adreça de correu">
                     <div class="mt-3 rounded-md sm:mt-0 sm:ml-3 sm:flex-shrink-0">
-                        <button type="submit" class="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-500 py-2 px-4 text-base font-medium text-white hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800">Subscribe</button>
+                        <button type="submit" class="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-500 py-2 px-4 text-base font-medium text-white hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800">Subscriu-te</button>
                     </div>
                 </form>
             </div>
@@ -151,7 +151,7 @@
                     </svg>
                 </a>
             </div>
-            <p class="mt-8 text-base text-gray-400 md:order-1 md:mt-0">&copy; 2022 Andreu Gisbert Bel, Inc. All rights reserved.</p>
+            <p class="mt-8 text-base text-gray-400 md:order-1 md:mt-0">&copy; 2022 Andreu Gisbert Bel, Inc. Tots els drets reservats.</p>
         </div>
     </div>
 </footer>
