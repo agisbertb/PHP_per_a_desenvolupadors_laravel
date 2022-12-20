@@ -21,3 +21,7 @@ Creat per Andreu Gisbert Bel
 - v0.7: Container -> Implementar D de SOLID Dependency Inversion Principle -> Inverter -> Inversor Container -> APP
 - v0.8: Fitxer .env -> Exemples ús de paquets PHP Composer de tercers.
 - v0.9: Refactorització helpers per utilitzar composer autoload
+- v1.0: Primera versió per acabar del encaminador o Router
+- v1.1: Versió refactoritzada DRY VIEWS
+- v1.2: Solució final
+- v1.3: Petits canvis solució final
