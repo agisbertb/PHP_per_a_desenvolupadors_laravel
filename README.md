@@ -35,7 +35,7 @@ Creat per Andreu Gisbert Bel
 
 ## Comandes per pujar a producció al servidor
 
-git checkout production
-git merge main
-git checkout main
-git push origin production
+- `git checkout production`
+- `git merge main`
+- `git checkout main`
+- `git push origin production`
