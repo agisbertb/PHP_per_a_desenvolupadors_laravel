@@ -1,3 +1,9 @@
+# Aplicació final
+
+Podeu veure el resultat d'aquesta aplicació a:
+
+http://phpforlaravel.andreugisbert.me/
+
 # PHP_per_a_desenvolupadors_laravel
 
 Codi font del screencast:
@@ -25,3 +31,11 @@ Creat per Andreu Gisbert Bel
 - v1.1: Versió refactoritzada DRY VIEWS
 - v1.2: Solució final
 - v1.3: Petits canvis solució final
+
+
+## Comandes per pujar a producció al servidor
+
+git checkout production
+git merge main
+git checkout main
+git push origin production
